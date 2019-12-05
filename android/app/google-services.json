@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "7642201105",
+    "firebase_url": "https://fir-ml-7efed.firebaseio.com",
+    "project_id": "fir-ml-7efed",
+    "storage_bucket": "fir-ml-7efed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7642201105:android:56c1973839721639",
+        "android_client_info": {
+          "package_name": "br.com.herleyhac.flutterml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7642201105-0h31h2b5o6juntd31ku0l6et1ei98csh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiAhw2EMoT_spG9yZH0IEK3C81dAm-z28"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
